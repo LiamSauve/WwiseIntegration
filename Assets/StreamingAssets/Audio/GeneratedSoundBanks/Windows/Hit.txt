@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	566726262	Play_Hit_Simple			\Default Work Unit\Play_Hit_Simple	
+	2318009285	Play_Hit_Random			\Default Work Unit\Play_Hit_Random	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	182098190	Hit2	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit2_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit2		27204
+	188694278	Hit5	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit5_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit5		35184
+	459448587	Hit6	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit6_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit6		36780
+	485630110	Hit4	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit4_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit4		31036
+	508988812	Hit1	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit1_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit1		37100
+	582240544	Hit3	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\hit3_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Hit_Random\Hit3		38060
+

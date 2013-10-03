@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" SchemaVersion="9">
+	<RootPaths>
+		<ProjectRoot>C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents />
+	<StreamedFiles />
+	<SoundBanks>
+		<SoundBank Id="376462274" Language="SFX">
+			<ShortName>Seq</ShortName>
+			<Path>Seq.bnk</Path>
+			<IncludedEvents>
+				<Event Id="3571704877" Name="Play_Sequence" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="485609857" Language="SFX">
+					<ShortName>Seq1.wav</ShortName>
+					<Path>sfx\seq1_ddc98ef4.wem</Path>
+				</File>
+				<File Id="712081144" Language="SFX">
+					<ShortName>Seq2.wav</ShortName>
+					<Path>sfx\seq2_ddc98ef4.wem</Path>
+				</File>
+				<File Id="715658239" Language="SFX">
+					<ShortName>Seq3.wav</ShortName>
+					<Path>sfx\seq3_ddc98ef4.wem</Path>
+				</File>
+				<File Id="794033460" Language="SFX">
+					<ShortName>Seq4.wav</ShortName>
+					<Path>sfx\seq4_ddc98ef4.wem</Path>
+				</File>
+				<File Id="264422689" Language="SFX">
+					<ShortName>Seq5.wav</ShortName>
+					<Path>sfx\seq5_ddc98ef4.wem</Path>
+				</File>
+				<File Id="614756973" Language="SFX">
+					<ShortName>Seq6.wav</ShortName>
+					<Path>sfx\seq6_ddc98ef4.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1116398592" Language="SFX">
+			<ShortName>Hit</ShortName>
+			<Path>Hit.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2318009285" Name="Play_Hit_Random" />
+				<Event Id="566726262" Name="Play_Hit_Simple" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="508988812" Language="SFX">
+					<ShortName>Hit1.wav</ShortName>
+					<Path>sfx\hit1_ddc98ef4.wem</Path>
+				</File>
+				<File Id="182098190" Language="SFX">
+					<ShortName>Hit2.wav</ShortName>
+					<Path>sfx\hit2_ddc98ef4.wem</Path>
+				</File>
+				<File Id="582240544" Language="SFX">
+					<ShortName>Hit3.wav</ShortName>
+					<Path>sfx\hit3_ddc98ef4.wem</Path>
+				</File>
+				<File Id="485630110" Language="SFX">
+					<ShortName>Hit4.wav</ShortName>
+					<Path>sfx\hit4_ddc98ef4.wem</Path>
+				</File>
+				<File Id="188694278" Language="SFX">
+					<ShortName>Hit5.wav</ShortName>
+					<Path>sfx\hit5_ddc98ef4.wem</Path>
+				</File>
+				<File Id="459448587" Language="SFX">
+					<ShortName>Hit6.wav</ShortName>
+					<Path>sfx\hit6_ddc98ef4.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1126985124" Language="SFX">
+			<ShortName>Motor</ShortName>
+			<Path>Motor.bnk</Path>
+			<IncludedEvents>
+				<Event Id="520985213" Name="Play_Motor" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="916253484" Language="SFX">
+					<ShortName>Motor.wav</ShortName>
+					<Path>sfx\motor_e0a621cc.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<IncludedEvents />
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles />
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+		<SoundBank Id="2392629736" Language="SFX">
+			<ShortName>RTPC</ShortName>
+			<Path>RTPC.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1441912848" Name="Play_playlist" />
+			</IncludedEvents>
+			<IncludedDialogueEvents />
+			<ReferencedStreamedFiles />
+			<IncludedFullFiles>
+				<File Id="188686711" Language="SFX">
+					<ShortName>Layer1.wav</ShortName>
+					<Path>sfx\layer1_596de256.wem</Path>
+				</File>
+				<File Id="928078142" Language="SFX">
+					<ShortName>Layer2.wav</ShortName>
+					<Path>sfx\layer2_596de256.wem</Path>
+				</File>
+				<File Id="164670668" Language="SFX">
+					<ShortName>Layer3.wav</ShortName>
+					<Path>sfx\layer3_596de256.wem</Path>
+				</File>
+				<File Id="743224976" Language="SFX">
+					<ShortName>Layer4.wav</ShortName>
+					<Path>sfx\layer4_596de256.wem</Path>
+				</File>
+			</IncludedFullFiles>
+			<IncludedPrefetchFiles />
+			<ExternalSources />
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,12 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1441912848	Play_playlist			\Default Work Unit\Play_playlist	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	2470328564	intensity			\Default Work Unit\intensity	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	164670668	Layer3	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\layer3_596de256.wem		\Interactive Music Hierarchy\Default Work Unit\playlist\segment\Layer3		2116864
+	188686711	Layer1	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\layer1_596de256.wem		\Interactive Music Hierarchy\Default Work Unit\playlist\segment\Layer1		2116864
+	743224976	Layer4	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\layer4_596de256.wem		\Interactive Music Hierarchy\Default Work Unit\playlist\segment\Layer4		2116864
+	928078142	Layer2	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\layer2_596de256.wem		\Interactive Music Hierarchy\Default Work Unit\playlist\segment\Layer2		2116864
+

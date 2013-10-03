@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	520985213	Play_Motor			\Default Work Unit\Play_Motor	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	916253484	Motor	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\motor_e0a621cc.wem		\Actor-Mixer Hierarchy\Default Work Unit\Motor		535376
+

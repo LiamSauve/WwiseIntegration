@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3571704877	Play_Sequence			\Default Work Unit\Play_Sequence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	264422689	Seq5	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq5_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq5		241940
+	485609857	Seq1	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq1_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq1		245700
+	614756973	Seq6	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq6_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq6		317132
+	712081144	Seq2	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq2_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq2		285804
+	715658239	Seq3	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq3_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq3		299588
+	794033460	Seq4	C:\Users\LiamMac\Documents\WwiseProjects\WwiseUnityIntegration\.cache\Windows\sfx\seq4_ddc98ef4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Seq_Sequence\Seq4		285804
+
